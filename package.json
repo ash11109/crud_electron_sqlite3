@@ -1,0 +1,17 @@
+{
+  "name": "crud_electron_sqlite3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "electron": "^33.2.0",
+    "sqlite3": "^5.1.7"
+  }
+}
